@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="content_frame" type="id">frm</item>
+    <item name="nav_first_layout" type="id">navf</item>
+    <item name="nav_second_layout" type="id">navs</item>
+    <item name="nav_third_layout" type="id">navt</item>
+</resources>
