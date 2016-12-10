@@ -12,13 +12,12 @@ import android.view.ViewGroup;
  */
 
 public class FirstFragment extends Fragment {
-
     View myView;
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-    myView = inflater.inflate(R.layout.first_layout, container, false);
-    return myView;
-}
+        myView = inflater.inflate(R.layout.first_layout, container, false);
+        return myView;
+    }
 }
